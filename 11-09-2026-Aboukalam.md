@@ -10,7 +10,7 @@ L’image montre ainsi que, même lorsque les chiffres sont corrects, la manièr
 
 
 Deuxième image
-![image](33-39.png)
+![image](33-29.png)
 
 Cette image présente un graphique en barres comparant deux pourcentages : 33,9 % le 03-avril et 29,7 % le 04-avril. Les chiffres montrent une différence assez faible de 4,2 points, soit environ 14 % de plus pour le 3 avril. 
 Pourtant, la représentation graphique exagère fortement cette différence : la barre turquoise de 33,9 % est visuellement plus de deux fois plus haute que la barre violette de 29,7 %, alors qu’elle ne devrait être que légèrement plus haute. 
