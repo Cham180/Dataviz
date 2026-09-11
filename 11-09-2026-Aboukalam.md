@@ -1,5 +1,5 @@
 Première image
-![image](bfm.jpg"image1")
+![image](bfm.jpg)
 
 Cette image est une capture d’écran de BFM TV présentant un sondage sur la mobilisation syndicale contre un projet de réforme du gouvernement. 
 Le graphique indique 48 % d’opposition, 37 % de soutien et 15 % d’indifférence, des chiffres qui totalisent bien 100 %. 
