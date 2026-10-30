@@ -11,7 +11,7 @@ st.set_page_config(
 # Chargement des données
 @st.cache_data
 def load_data():
-    df = pd.read_csv("Social_media_impact_on_life(1).csv")
+    df = pd.read_csv("Social_media_impact_on_life.csv")
     return df
 
 df = load_data()
