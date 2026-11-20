@@ -123,7 +123,7 @@ Cette visualisation compare la proportion d’accidents graves selon les conditi
 
 ![Comparaison par zone](./comparaison_zones.png)
 
-Interprétation
+### Interprétation
 
 | Zone | Accidents | Accidents mortels | Part d'accidents graves |
 |---|---:|---:|---:|
@@ -136,14 +136,15 @@ La grande couronne concentre toutefois 62,3 % des accidents mortels. La part d�
 La Seine-et-Marne compte 1 213 accidents et 62 accidents mortels, ce qui représente le nombre le plus élevé parmi les départements étudiés.
 Une hypothèse serait que les vitesses de circulation sont plus élevées hors agglomération, ce qui pourrait entraîner des chocs plus violents. Cependant, les données utilisées ne permettent pas de vérifier cette explication, car elles ne renseignent pas directement la vitesse des véhicules.
 Concernant la luminosité, les accidents survenus de nuit sans éclairage présentent une part d’accidents graves de 17,7 %, contre 12,3 % en plein jour. Toutefois, 59 % de ces accidents ont lieu en grande couronne. À l’intérieur de cette zone, la part d’accidents graves passe de 20 % en journée à 24 % la nuit sans éclairage. La localisation semble donc également jouer un rôle important dans les différences observées.
-Règles de lisibilité appliquées
 
-7 — Utilisation de barres horizontales pour faciliter la lecture des libellés.
-8 — Utilisation d’un dégradé de bleus et d’une couleur orange pour distinguer les accidents mortels.
-9 — Affichage direct des noms et des valeurs sur les visualisations afin de faciliter leur interprétation.
-10 — Suppression des éléments graphiques inutiles, comme les grilles et les cadres.
-11 — Regroupement des catégories de luminosité de 5 à 4 et des départements en 3 grandes zones.
-12 — Classement des barres selon la part d’accidents graves.
-13 — Utilisation d’hexagones pour représenter les concentrations d’accidents plutôt que de superposer les 14 688 points.
-14 — Utilisation de nombres entiers et de pourcentages arrondis à une décimale.
-16 — Attribution de titres explicites aux graphiques pour faciliter la compréhension des résultats.
+### Règles de lisibilité appliquées
+
+- **7** — Utilisation de barres horizontales pour faciliter la lecture des libellés.
+- **8** — Utilisation d’un dégradé de bleus et d’une couleur orange pour distinguer les accidents mortels.
+- **9** — Affichage direct des noms et des valeurs sur les visualisations afin de faciliter leur interprétation.
+- **10** — Suppression des éléments graphiques inutiles, comme les grilles et les cadres.
+- **11** — Regroupement des catégories de luminosité de 5 à 4 et des départements en 3 grandes zones.
+- **12** — Classement des barres selon la part d’accidents graves.
+- **13** — Utilisation d’hexagones pour représenter les concentrations d’accidents plutôt que de superposer les 14 688 points.
+- **14** — Utilisation de nombres entiers et de pourcentages arrondis à une décimale.
+- **16** — Attribution de titres explicites aux graphiques pour faciliter la compréhension des résultats.
