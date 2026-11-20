@@ -90,7 +90,7 @@ Bilan de la première partie
 
 L'étude des règles de lisibilité montre qu'une visualisation efficace doit avant tout faciliter la compréhension des données. Les choix de couleurs, de formes, de légendes et de catégories ont donc une réelle importance. Ces principes ont été pris en compte dans la réalisation de notre carte et de nos graphiques comparatifs.
 
-Partie 2 – Analyse des accidents de la route en Île-de-France en 2025
+## Partie 2 – Analyse des accidents de la route en Île-de-France en 2025
 
 Données
 
@@ -107,21 +107,21 @@ Gravité de l’accident déterminée à partir de la victime la plus gravement 
 Luminosité regroupée en 4 catégories au lieu de 5, en réunissant les deux catégories correspondant à la nuit sans éclairage
 Au final, l’analyse porte sur 14 688 accidents, dont 252 mortels et 1 929 graves.
 
-Carte des accidents
+### Carte des accidents corporels en Île-de-France en 2025
 
-Carte des accidents en Île-de-France (voir l’image)
+![Carte des accidents](./Capture%20d%E2%80%99%C3%A9cran%202026-11-20%20%C3%A0%2012.13.50.png)
 
 À gauche, on retrouve l’ensemble de l’Île-de-France et à droite un zoom sur Paris et la petite couronne. La couleur représente le nombre d’accidents par hexagone, avec une échelle logarithmique. Les points orange correspondent aux accidents mortels.
 
-Comparaison selon la luminosité
+### Gravité des accidents selon les conditions de luminosité
 
-Gravité des accidents selon la luminosité (voir l’image)
+![Gravité selon la luminosité](./Capture%20d%E2%80%99%C3%A9cran%202026-11-20%20%C3%A0%2012.14.26.png)
 
 Cette visualisation compare la proportion d’accidents graves selon les conditions de luminosité. La nuit sans éclairage présente la proportion la plus élevée, avec 17,7 %, contre 12,3 % en plein jour.
 
-Comparaison entre les zones géographiques
+### Comparaison de la gravité des accidents selon les zones géographiques
 
-Comparaison des accidents selon les zones (voir l’image)
+![Comparaison par zone](./Capture%20d%E2%80%99%C3%A9cran%202026-11-20%20%C3%A0%2012.15.03.png)
 
 Interprétation
 
