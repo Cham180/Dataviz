@@ -109,19 +109,19 @@ Au final, l’analyse porte sur 14 688 accidents, dont 252 mortels et 1 929 grav
 
 ### Carte des accidents corporels en Île-de-France en 2025
 
-![Carte des accidents](./Capture%20d%E2%80%99%C3%A9cran%202026-11-20%20%C3%A0%2012.13.50.png)
+![Carte des accidents](./carte_accidents.png)
 
 À gauche, on retrouve l’ensemble de l’Île-de-France et à droite un zoom sur Paris et la petite couronne. La couleur représente le nombre d’accidents par hexagone, avec une échelle logarithmique. Les points orange correspondent aux accidents mortels.
 
 ### Gravité des accidents selon les conditions de luminosité
 
-![Gravité selon la luminosité](./Capture%20d%E2%80%99%C3%A9cran%202026-11-20%20%C3%A0%2012.14.26.png)
+![Gravité selon la luminosité](./gravite_luminosite.png)
 
 Cette visualisation compare la proportion d’accidents graves selon les conditions de luminosité. La nuit sans éclairage présente la proportion la plus élevée, avec 17,7 %, contre 12,3 % en plein jour.
 
 ### Comparaison de la gravité des accidents selon les zones géographiques
 
-![Comparaison par zone](./Capture%20d%E2%80%99%C3%A9cran%202026-11-20%20%C3%A0%2012.15.03.png)
+![Comparaison par zone](./comparaison_zones.png)
 
 Interprétation
 
